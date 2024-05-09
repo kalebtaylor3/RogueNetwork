@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\source\\roguenetworkproject\\roguenetworkproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\intermediate\\build\\win64\\x64\\roguenetworkprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\roguenetworkproject\\definitions.roguenetworkproject.h",
+            "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\source\\roguenetworkproject\\roguenetworkproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

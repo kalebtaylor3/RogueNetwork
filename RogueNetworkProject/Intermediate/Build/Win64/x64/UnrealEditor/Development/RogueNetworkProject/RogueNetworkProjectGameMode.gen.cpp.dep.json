@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\intermediate\\build\\win64\\unrealeditor\\inc\\roguenetworkproject\\uht\\roguenetworkprojectgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\intermediate\\build\\win64\\x64\\roguenetworkprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\roguenetworkproject\\definitions.roguenetworkproject.h",
+            "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\source\\roguenetworkproject\\roguenetworkprojectgamemode.h",
+            "c:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\intermediate\\build\\win64\\unrealeditor\\inc\\roguenetworkproject\\uht\\roguenetworkprojectgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

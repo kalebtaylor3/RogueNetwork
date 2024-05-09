@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GamesIMade\\RogueNetwork\\RogueNetworkProject\\Source\\RogueNetworkProject\\RogueNetworkProject.Build.cs",
+		"D:\\GamesIMade\\RogueNetwork\\RogueNetworkProject\\Source\\RogueNetworkProject.Target.cs",
+		"D:\\GamesIMade\\RogueNetwork\\RogueNetworkProject\\Source\\RogueNetworkProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.1"
+}

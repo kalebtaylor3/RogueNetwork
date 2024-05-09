@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RogueNetworkProject",
+			"Path": "..\\Source\\RogueNetworkProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RogueNetworkProjectEditor",
+			"Path": "..\\Source\\RogueNetworkProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

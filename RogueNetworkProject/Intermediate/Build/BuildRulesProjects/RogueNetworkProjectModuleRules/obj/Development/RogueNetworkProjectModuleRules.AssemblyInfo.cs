@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RogueNetworkProjectModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4336b0068cd73aa565d6db6fd1f65c7e93adf0b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+999070d6a570bd9dbfb439fe25151e7e9db0c723")]
 [assembly: System.Reflection.AssemblyProductAttribute("RogueNetworkProjectModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RogueNetworkProjectModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

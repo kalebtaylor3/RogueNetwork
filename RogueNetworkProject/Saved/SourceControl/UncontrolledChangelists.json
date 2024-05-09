@@ -5,16 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
-				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/Characters/Mannequins/Animations/CrouchIdle_1__UE.uasset",
-				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/Characters/Mannequins/Animations/Manny/CrouchWalk.uasset",
-				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/Characters/Mannequins/Animations/CrouchedWalking_UE.uasset",
-				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0O/ES79O7X7I95UA5NMHDLFEQ.uasset",
-				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
-				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset"
+				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
 	]

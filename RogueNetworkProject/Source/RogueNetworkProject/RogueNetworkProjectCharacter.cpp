@@ -144,26 +144,37 @@ void ARogueNetworkProjectCharacter::ToggleSprint()
 	switch (bIsSprinting)
 	{
 	case true:
-		UE_LOG(LogTemp, Log, TEXT("Spring Has been toggled onn"));
-		GetCharacterMovement()->MaxWalkSpeed = runSpeed;
+		if (canSprint)
+		{
+			UE_LOG(LogTemp, Log, TEXT("Spring Has been toggled onn"));
+			GetCharacterMovement()->MaxWalkSpeed = runSpeed;
+			canCrouch = false;
+		}
 		break;
 	case false:
 		UE_LOG(LogTemp, Log, TEXT("Spring Has been toggled off"));
 		GetCharacterMovement()->MaxWalkSpeed = walkSpeed;
+		canCrouch = true; //doing this before shit
 		break;
 	}
 }
 
 void ARogueNetworkProjectCharacter::ToggleCrouch()
 {
-	bisCrouching = !bisCrouching;
+	if(canCrouch)
+		bisCrouching = !bisCrouching;
+
 	switch (bisCrouching)
 	{
 	case true:
 		UE_LOG(LogTemp, Log, TEXT("You are crouching"));
 		{
-			GetCapsuleComponent()->SetCapsuleHalfHeight(60.0f);
-			GetCapsuleComponent()->SetWorldLocation(FVector(GetActorLocation().X, GetActorLocation().Y, GetActorLocation().Z));
+			if (canCrouch)
+			{
+				GetCapsuleComponent()->SetCapsuleHalfHeight(60.0f);
+				GetCapsuleComponent()->SetWorldLocation(FVector(GetActorLocation().X, GetActorLocation().Y, GetActorLocation().Z));
+				canSprint = false;
+			}
 		}
 		break;
 	case false:
@@ -183,6 +194,7 @@ void ARogueNetworkProjectCharacter::ToggleCrouch()
 		if (!bHit)
 		{
 			GetCapsuleComponent()->InitCapsuleSize(42.0f, 96.0f);
+			canSprint = true;
 		}
 		else
 		{

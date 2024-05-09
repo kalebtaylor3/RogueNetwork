@@ -63,6 +63,9 @@ class ARogueNetworkProjectCharacter : public ACharacter
 	UPROPERTY(EditAnywhere)
 	float UncrouchOffsett;
 
+	bool canSprint = true;
+	bool canCrouch = true;
+
 public:
 	ARogueNetworkProjectCharacter();
 

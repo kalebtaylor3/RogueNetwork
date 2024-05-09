@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/GamesIMade/RogueNetwork/RogueNetworkProject/Content/ThirdPerson/Blueprints/BP_MainCharacter.uasset"
 			]
 		}
 	]

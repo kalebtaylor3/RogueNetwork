@@ -252,6 +252,7 @@
     <None Include="..\..\RogueNetworkProject.uproject"/>
     <None Include="..\..\Source\RogueNetworkProject.Target.cs"/>
     <None Include="..\..\Source\RogueNetworkProjectEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>

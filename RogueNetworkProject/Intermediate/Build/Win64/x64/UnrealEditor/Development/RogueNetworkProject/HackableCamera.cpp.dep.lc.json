@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\source\\roguenetworkproject\\private\\hackablecamera.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\intermediate\\build\\win64\\x64\\roguenetworkprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\roguenetworkproject\\definitions.roguenetworkproject.h",
+            "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\source\\roguenetworkproject\\public\\hackablecamera.h",
+            "d:\\gamesimade\\roguenetwork\\roguenetworkproject\\intermediate\\build\\win64\\unrealeditor\\inc\\roguenetworkproject\\uht\\hackablecamera.generated.h",
+            "c:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\pawnmovementcomponent.h",
+            "c:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\navmovementcomponent.h",
+            "c:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\pathfollowingagentinterface.h",
+            "c:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pathfollowingagentinterface.generated.h",
+            "c:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navmovementcomponent.generated.h",
+            "c:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pawnmovementcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

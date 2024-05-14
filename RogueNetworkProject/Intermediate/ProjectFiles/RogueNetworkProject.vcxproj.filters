@@ -54,5 +54,29 @@
     <ClInclude Include="..\..\Source\RogueNetworkProject\RogueNetworkProjectGameMode.h">
       <Filter>Source\RogueNetworkProject</Filter>
     </ClInclude>
+    <Filter Include="Source\RogueNetworkProject\Private">
+      <UniqueIdentifier>{7B06E122-BFEF-35CE-90D5-41C36719495B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RogueNetworkProject\Private\HackableCamera.cpp">
+      <Filter>Source\RogueNetworkProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RogueNetworkProject\Private\HackingComponent.cpp">
+      <Filter>Source\RogueNetworkProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RogueNetworkProject\Private\HackingSystem.cpp">
+      <Filter>Source\RogueNetworkProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\RogueNetworkProject\Public">
+      <UniqueIdentifier>{840D64FE-0A8F-3C92-B633-E5AE74AC41C6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RogueNetworkProject\Public\HackableCamera.h">
+      <Filter>Source\RogueNetworkProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RogueNetworkProject\Public\HackingComponent.h">
+      <Filter>Source\RogueNetworkProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RogueNetworkProject\Public\HackingSystem.h">
+      <Filter>Source\RogueNetworkProject\Public</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

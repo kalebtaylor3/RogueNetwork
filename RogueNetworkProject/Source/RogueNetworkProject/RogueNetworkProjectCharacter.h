@@ -50,6 +50,7 @@ class ARogueNetworkProjectCharacter : public ACharacter
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input, meta = (AllowPrivateAccess = "true"))
 	UInputAction* LookAction;
 
+
 	UPROPERTY(VisibleAnywhere)
 	float walkSpeed;
 	UPROPERTY(VisibleAnywhere)
